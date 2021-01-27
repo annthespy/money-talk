@@ -1,8 +1,19 @@
 # money-talk
 
-> A single page budget / expense tracking application
+A simple single page budget / expense tracking application
+
+## Features:
+- Add expenses
+- Create categories
+- Delete entries
+- Track total spendings across multiple accounts
 
 ![](money-talk.png)
+
+## Tech Stack
+
+- [React](https://reactjs.org/)
+- [Mongoose](https://mongoosejs.com/)
 
 ## Building and running on localhost
 
@@ -36,5 +47,5 @@ Open the file `dist/index.html` or `http://localhost:3000` in your browser
 
 ## Contributors
 
-Shelley Chen\
-Anna Makagonova
+Anna Makagonova\
+Shelley Chen
