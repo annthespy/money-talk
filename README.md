@@ -14,6 +14,8 @@ A simple single page budget / expense tracking application
 
 - [React](https://reactjs.org/)
 - [Mongoose](https://mongoosejs.com/)
+- [Node](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
 
 ## Building and running on localhost
 
